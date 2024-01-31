@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency_convertor</string>
+    <string-array name="spinner_items">
+        <item>USD</item>
+        <item>ATOM</item>
+        <item>RUB</item>
+        <item>EUR</item>
+        <item>IDR</item>
+    </string-array>
+</resources>
